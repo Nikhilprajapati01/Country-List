@@ -158,6 +158,7 @@ nav ul {
     display: flex;
     flex-direction: column;
     align-items: center;
+ 
 
     & li:first-child {
       margin-top: 1.2rem;

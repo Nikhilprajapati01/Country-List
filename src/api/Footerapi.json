@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Khekra Baghpat"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "9999999999"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "nkman2002@gmail.com"
+    }
+  ]
